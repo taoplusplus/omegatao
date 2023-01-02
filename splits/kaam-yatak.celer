@@ -1,0 +1,48 @@
+Kaam Yatak:
+- _Korok::P18
+
+- _Korok::P11
+
+- _Korok::P10
+
+- .fury():
+    fury: 1
+
+- _Boss::Talus::Stone:
+    coord: [-1087.75, 179.14, 1663.18]
+
+- _Korok::P04
+
+- _Korok::P02
+
+- _Korok::P06
+
+- _Korok::P05
+
+- _Korok::P01
+
+- _Korok::C81
+
+- _Korok::C82
+
+- _Korok::C83
+
+- _Korok::C76
+
+- _Korok::C75
+
+- .fury():
+    fury: 2
+
+- _Boss::Talus::Luminous:
+    coord: [-514.75, 127.49, 1181.74]
+
+- _Memory::LakeKolomo
+
+- _Korok::C69
+
+- _Korok::C63
+
+- _Korok::C62
+
+- _Shrine::KaamYatak

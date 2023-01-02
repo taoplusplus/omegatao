@@ -1,0 +1,40 @@
+Monya Toma:
+- _Korok::R19
+
+- _Korok::R16
+
+- _Korok::R10
+
+- _Memory::IrchPlain
+
+- _Korok::R07
+
+- _Boss::Hinox::Blue:
+    coord: [-752.49, 187.41, -1268.12]
+
+- _Korok::K29
+
+- _Korok::K27
+
+- _Korok::K28
+
+- _Boss::Hinox::Blue:
+    coord: [-480.55, 278.99, -2039.64]
+    
+- _Korok::K19
+
+- _Korok::K16
+
+- _Korok::K18
+
+- _Korok::K26
+
+- _Korok::K24
+
+- _Korok::K25
+
+- _Korok::K17
+
+- _Korok::K23
+
+- _Shrine::MonyaToma

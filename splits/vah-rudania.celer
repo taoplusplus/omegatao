@@ -1,0 +1,10 @@
+Vah Rudania:
+- .gale():
+    gale: 1
+    
+- Daruk's Protection:
+    icon: rudania-done
+    split-type: UserDefined
+    movements:
+        - to: [1572.5,-2422.5]
+          warp: true

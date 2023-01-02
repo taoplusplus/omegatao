@@ -1,0 +1,76 @@
+Faron Tower:
+- _Korok::L13
+
+- _Korok::L18
+
+- _Korok::L17
+
+- _Korok::L12
+
+- .gale():
+    gale: 1
+
+- _Korok::L28
+
+- _Korok::L29
+
+- _Korok::L34
+
+- _Korok::L35
+
+- _Korok::L45
+
+- _Korok::L54
+
+- _Korok::L56
+
+- _Korok::L57
+
+- _Korok::F24
+
+- _Korok::F23
+
+- _Korok::L58
+
+- _Korok::L46
+
+- _Korok::F02
+
+- .fury():
+    fury: 1
+    
+- _Boss::Talus::Stone:
+    coord: [1257.12, 355.80, 2176.52]
+
+- _Korok::F05
+
+- _Korok::F01:
+    movements:
+        - to: [1381.90, 288.30, 2277.45]
+          away: true
+
+- _Korok::F04
+
+- _Korok::F03
+
+- _Boss::Hinox::Red:
+    coord: [1330.55, 180.38, 2623.94]
+
+- .gale():
+    gale: 1
+
+- _Korok::F10
+
+- .gale():
+    gale: 1
+
+- _Korok::F16
+
+- _Korok::F15
+
+- _Boss::Hinox::Red:
+    coord: [1493.39, 306.77, 3092.14]
+
+- _Korok::F25
+
+- _Tower::Faron

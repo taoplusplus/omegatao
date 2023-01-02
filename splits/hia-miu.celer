@@ -1,0 +1,16 @@
+Hia Miu:
+- _Korok::H10
+
+- _Korok::H11
+
+- _Korok::H09
+
+- _Korok::H04
+
+- _Boss::Hinox::Stal:
+    coord: [-4260.15, 327.00, -3777.48]
+
+- _Korok::H01
+
+- _Shrine::HiaMiu:
+    comment: Major Test of Strength

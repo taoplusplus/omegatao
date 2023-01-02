@@ -1,0 +1,13 @@
+Hateno Tower:
+- _Korok::N59
+
+- _Korok::N58
+
+- _Korok::N50
+
+- _Korok::N49:
+    movements:
+        - to: [2714.13, 225.53, 2345.55]
+          away: true
+
+- _Tower::Hateno

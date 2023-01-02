@@ -1,0 +1,8 @@
+Vah Medoh:
+- .!!(Revali's Gale):
+    icon: medoh-done
+    split-type: UserDefined
+    line-color: yellow
+    movements:
+        - to: [-3565.625,-1817.375]
+          warp: true

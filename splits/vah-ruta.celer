@@ -1,0 +1,11 @@
+Vah Ruta:
+- .gale():
+    gale: 1
+    
+- Mipha's Grace:
+    icon: ruta-done
+    split-type: UserDefined
+    line-color: dodgerblue
+    movements:
+        - to: [3283.5,-431]
+          warp: true

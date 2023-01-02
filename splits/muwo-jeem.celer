@@ -1,0 +1,14 @@
+Muwo Jeem:
+- _Korok::F22
+
+- _Korok::F18
+
+- _Korok::N64
+
+- _Boss::Hinox::Red:
+    coord: [3210.17, 172.01, 2996.33]
+
+- _Korok::F32
+
+- _Shrine::MuwoJeem:
+    comment: Modest Test of Strength

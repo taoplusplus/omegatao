@@ -1,0 +1,32 @@
+Jitan Sami:
+- _Korok::N44
+
+- _Korok::N18
+
+- _Korok::N24
+
+- .gale():
+    gale: 1
+
+- _Korok::N31
+
+- _Korok::N39
+
+- _Korok::N21
+
+- _Korok::N29
+
+- .gale():
+    gale: 1
+
+- _Korok::N30:
+    movements:
+        - to: [3241.75,1472.75]
+        - to: [3229.03, 302.83, 1545.25]
+          away: true
+
+- _Korok::N22
+
+- _Korok::N23
+
+- _Shrine::JitanSami

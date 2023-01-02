@@ -1,0 +1,23 @@
+Shora Hah:
+- .gale():
+    gale: 1
+
+- _Korok::E08
+
+- _Korok::E09
+
+- _Korok::E06
+
+- .gale():
+    gale: 1
+
+- _Boss::Talus::Igneo:
+    coord: [2146.50, 535.83, -3011.50]
+    
+- _Korok::E11
+
+- _Korok::E10
+
+- _Korok::E07
+
+- _Shrine::ShoraHah

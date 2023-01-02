@@ -1,0 +1,17 @@
+Saas Kosah:
+- _Korok::X03
+
+- _Korok::X02
+
+- _Korok::K30
+
+- _Korok::X11
+
+- .fury():
+    fury: 3
+    
+- _Boss::Talus::Rare:
+    coord: [-136.65, 127.21, -956.26]
+
+- _Shrine::SaasKosah:
+    comment: Major Test of Strength

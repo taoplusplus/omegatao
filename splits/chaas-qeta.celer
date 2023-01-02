@@ -1,0 +1,36 @@
+Chaas Qeta:
+- _Korok::F33
+
+- _Korok::N65
+
+- _Korok::N61
+
+- _Korok::N60
+
+- _Korok::N62
+
+- .fury():
+    fury: 1
+
+- .enemy(Sheep Rustler's):
+    icon: calamity
+    coord: [4121.98, 113.17, 2369.62]
+
+- _Korok::N54
+
+- _Korok::N56
+
+- .fury():
+    fury: 2
+
+- _Boss::Talus::Luminous:
+    coord: [4558.50, 105.41, 2465.00]
+
+- _Korok::N63
+
+- _Korok::N57
+
+- _Korok::N55
+
+- _Shrine::ChaasQeta:
+    comment: Major Test of Strength

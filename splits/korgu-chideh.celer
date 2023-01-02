@@ -1,0 +1,10 @@
+Korgu Chideh:
+- _Korok::N66
+
+- _Boss::Hinox::Blue:
+    coord: [4537.11, 110.76, 3701.95]
+
+- .gale():
+    gale: 1
+
+- _Shrine::KorguChideh

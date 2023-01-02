@@ -1,0 +1,25 @@
+Zuna Kai:
+- _Boss::Hinox::Black:
+    coord: [2917.42, 343.68, -3561.40]
+
+- _Korok::A01
+
+- .gale():
+    gale: 1
+
+- _Korok::A05
+
+- _Korok::A10
+
+- _Korok::A11
+
+- _Korok::A12
+
+- _Korok::A06
+
+- _Boss::Hinox::Black:
+    movements:
+        - to: [3489.38, 179.10, -3335.79]
+          away: true
+
+- _Shrine::ZunaKai

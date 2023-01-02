@@ -1,0 +1,61 @@
+Shae Loya:
+- _Korok::H67
+
+- _Korok::H70
+
+- _Korok::H69
+
+- _Korok::H72
+
+- _Korok::T18
+
+- .fury():
+    fury: 3
+
+- _Boss::Talus::Rare:
+    coord: [-2864.50, 408.98, -1825.91]
+
+- _Korok::H65
+
+- _Korok::H66
+
+- _Korok::T11
+
+- _Korok::T21
+
+- _Korok::T19:
+    movements:
+        - to: [-3151.57, 185.50, -1563.28]
+          away: true
+
+- _Korok::T22
+
+- _Korok::T25
+
+- _Korok::R05
+
+- _Korok::R13
+
+- _Korok::R17
+
+- _Korok::R22:
+    movements:
+        - to: [-2446,-398.5]
+        - to: [-2434.11, 319.87, -491.04]
+          away: true
+
+- _Korok::R31:
+    movements:
+        - to: [-2370.11, 307.05, -345.31]
+          away: true
+
+- _Boss::Hinox::Blue:
+    movements:
+        - to: [-2370.05, 261.70, -419.59]
+          away: true
+
+- _Korok::R30
+
+- _Korok::R21
+
+- _Shrine::ShaeLoya

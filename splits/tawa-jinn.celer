@@ -1,0 +1,10 @@
+Tawa Jinn:
+- _Korok::F14
+
+- _Boss::Hinox::Red:
+    coord: [2768.06, 258.13, 2711.58]
+
+- _Boss::Hinox::Blue:
+    coord: [2693.70, 273.89, 2967.57]
+
+- _Shrine::TawaJinn

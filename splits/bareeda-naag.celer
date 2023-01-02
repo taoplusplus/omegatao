@@ -1,0 +1,24 @@
+Bareeda Naag:
+- _Memory::AncientColumns
+
+- _Korok::T35
+
+- _Korok::T37
+
+- _Korok::T33
+
+- Fairy Fountain:
+    icon: tots
+    coord: [-3541.00, 294.88, -745.00]
+
+- _Korok::T31
+
+- _Tod::Noon:
+    hide-icon-on-map: true
+
+- _Boss::Talus::Rare:
+    coord: [-3248.40, 291.68, -1078.12]
+
+- _Korok::T20
+
+- _Shrine::BareedaNaag

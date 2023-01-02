@@ -1,0 +1,11 @@
+Woodland Tower:
+- _Korok::E35
+
+- _Korok::K32
+
+- _Korok::K31
+
+- .gale():
+    gale: 1
+
+- _Tower::Woodland

@@ -1,0 +1,13 @@
+Toto Sah:
+- .fury():
+    fury: 1
+    
+- _Boss::Talus::Stone:
+    coord: [2527.50, 242.00, 1904.50]
+
+- _Boss::Hinox::Stal:
+    coord: [1940.50, 144.41, 2396.50]
+
+- _Korok::D59
+
+- _Shrine::TotoSah

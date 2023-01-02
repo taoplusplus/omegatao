@@ -1,0 +1,100 @@
+Kah Okeo:
+- _Korok::C24
+
+- _Korok::R26
+
+- _Korok::R27
+
+- _Korok::R44
+
+- _Korok::R43
+
+- .gale():
+    gale: 1
+
+- _Korok::R45
+
+- _Korok::R42
+
+- _Boss::Hinox::Black:
+    coord: [-1177.05, 139.48, 118.51]
+
+- _Korok::C47
+
+- _Korok::C37
+
+- _Korok::R58
+
+- _Korok::R57
+
+- _Korok::R56
+
+- _Korok::R55
+
+- _Korok::R54
+
+- _Korok::R53
+
+- _Korok::R52
+
+- _Korok::R61
+
+- _Boss::Hinox::Stal:
+    coord: [-2217.00, 372.31, 584.00]
+
+- _Korok::R62
+
+- _Korok::R68
+
+- _Korok::R69
+
+- _Korok::R78
+
+- _Korok::R77
+
+- _Korok::R76
+
+- _Korok::R75:
+    movements:
+        - to: [-2393.37, 233.05, 1047.34]
+          away: true
+
+- _Korok::G14
+
+- _Korok::R70
+
+- _Korok::R73
+
+- _Korok::R67
+
+- _Korok::R66
+
+- _Korok::R65
+
+- _Korok::R64
+
+- _Korok::R51
+
+- _Korok::R63
+
+- _Korok::R50
+
+- _Boss::Talus::Rare:
+    coord: [-3137.50, 317.31, 72.90]
+
+- _Korok::R46
+
+- _Korok::R36
+
+- _Korok::R35
+
+- _Korok::R34:
+    movements:
+        - to: [-3861.73, 101.01, -147.16]
+          away: true
+
+- _Korok::R33
+
+- _Korok::R32
+
+- _Shrine::KahOkeo

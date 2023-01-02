@@ -1,0 +1,63 @@
+Tahno Oah:
+- _Korok::D56
+
+- _Korok::D55
+
+- _Korok::D51
+
+- _Korok::D52
+
+- _Korok::N33
+
+- _Korok::N34
+
+- _Korok::N27
+
+- _Korok::N26
+
+- _Korok::N35
+
+- _Korok::N36
+
+- _Korok::N37
+
+- _Korok::N38
+
+- .fury():
+    fury: 2
+
+- _Boss::Talus::Stone:
+    coord: [3199.41, 173.38, 1904.36]
+
+- _Korok::N41
+
+- _Korok::N45
+
+- _Korok::N46
+
+- _Korok::N51
+
+- _Korok::N52
+
+- _Korok::N53
+
+- .gale():
+    gale: 1
+
+- _Npc<Bolson>:
+    coord: [3331.22, 235.28, 2284.61]
+
+- .gale():
+    gale: 1
+
+- _Npc<Symin>:
+    coord: [3778.96, 356.86, 2132.45]
+
+- .gale():
+    gale: 1
+
+- _Korok::N47
+
+- _Korok::N32
+
+- _Shrine::TahnoOah

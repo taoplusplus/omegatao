@@ -1,0 +1,26 @@
+Tabantha Tower:
+- .gale():
+    gale: 1
+    
+- _Korok::T36
+
+- _Korok::T32
+
+- _Korok::T27
+
+- _Korok::T26
+
+- _Korok::T23
+
+- _Boss::Talus::Rare:
+    coord: [-3929.30, 197.19, -1083.48]
+
+- _Korok::T28
+
+- _Korok::T29
+
+- _Korok::T30
+
+- _Korok::T24
+
+- _Tower::Tabantha

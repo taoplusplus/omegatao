@@ -1,0 +1,5 @@
+Paraglider:
+- .!!(Paraglider):
+    icon: king
+    coord: [-809.33, 263.58, 1964.35]
+    split-type: UserDefined

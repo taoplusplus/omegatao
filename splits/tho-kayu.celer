@@ -1,0 +1,19 @@
+Tho Kayu:
+- .gale():
+    gale: 1
+    
+- _Korok::W09
+
+- _Korok::W13
+
+- _Korok::W18
+
+- _Korok::W25
+
+- .fury():
+    fury: 1
+    
+- _Boss::Molduga:
+    coord: [-4832.61, 133.21, 2800.42]
+
+- _Shrine::ThoKayu

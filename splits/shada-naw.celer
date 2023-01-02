@@ -1,0 +1,25 @@
+Shada Naw:
+- _Korok::T16
+
+- _Korok::T12
+
+- .gale():
+    gale: 1
+
+- _Korok::T09
+
+- .gale():
+    gale: 1
+
+- _Boss::Talus::Frost:
+    coord: [-3709.50, 331.28, -2347.00]
+
+- _Korok::H54
+
+- _Korok::H55
+
+- _Korok::H43
+
+- _Korok::H27
+
+- _Shrine::ShadaNaw

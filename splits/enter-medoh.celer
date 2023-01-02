@@ -1,0 +1,9 @@
+Enter Medoh:
+- _Korok::R60
+
+- _Korok::T02
+
+- Enter Medoh:
+    icon: medoh-enter
+    coord: [-3620.00, 739.95, -2110.00]
+    split-type: UserDefined

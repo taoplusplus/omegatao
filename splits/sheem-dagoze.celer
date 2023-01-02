@@ -1,0 +1,87 @@
+Sheem Dagoze:
+- _Korok::X01
+
+- _Korok::X04
+
+- _Boss::Hinox::Stal:
+    coord: [-491.34, 126.08, -1009.82]
+
+- _Korok::X13
+
+- .gale():
+    gale: 1
+
+- _Korok::X08
+
+- .gale():
+    gale: 2
+
+- _Memory::HyruleCastle
+
+- _Korok::X09
+
+- _Korok::X14
+
+- _Korok::X17
+
+- _Korok::X16
+
+- _Korok::X12
+
+- _Korok::X15
+
+- _Korok::X19
+
+- .gale():
+    gale: 1
+
+- _Korok::X18
+
+- _Korok::X23
+
+- _Korok::X21
+
+- _Korok::X22
+
+- _Korok::X20
+
+- _Korok::X24
+
+- _Korok::C16
+
+- _Korok::X25
+
+- _Korok::C33
+
+- _Korok::C35
+
+- _Memory::SacredGrounds
+
+- _Korok::C42
+
+- _Korok::C43
+
+- _Korok::C40
+
+- _Korok::C41
+
+- _Korok::C39
+
+- _Korok::C38
+
+- _Korok::C36
+
+- _Korok::R49
+
+- _Korok::R48
+
+- _Korok::R39
+
+- _Boss::Hinox::Blue:
+    coord: [-1534.88, 214.82, -171.59]
+
+- _Korok::R40
+
+- _Korok::R41
+
+- _Shrine::SheemDagoze

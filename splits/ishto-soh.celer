@@ -1,0 +1,35 @@
+Ishto Soh:
+- _Korok::L86
+
+- _Korok::L87
+
+- _Boss::Hinox::Stal:
+    coord: [100.50, 111.28, 3371.00]
+
+- _Korok::L85
+
+- _Korok::L83
+
+- _Korok::L82
+
+- _Korok::L84
+
+- _Korok::L81
+
+- _Korok::L80
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
+- _Korok::L69
+
+- _Boss::Hinox::Stal:
+    coord: [-1062.00, 275.24, 3771.50]
+
+- _Korok::L68
+
+- _Korok::L67
+
+- _Shrine::IshtoSoh

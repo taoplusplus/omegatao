@@ -1,0 +1,39 @@
+Ya Naga:
+- _Korok::G36
+
+- _Korok::W20
+
+- _Korok::W21
+
+- _Korok::W27
+
+- _Korok::W22
+
+- _Korok::L21
+
+- _Korok::L22
+
+- _Korok::L36
+
+- _Korok::L62
+
+- _Korok::L64
+
+- Start L47 race:
+    icon: tots
+    coord: [-276.76, 153.65, 3316.47]
+
+- _Korok::L63
+
+- _Korok::L47:
+    coord: [-387.59, 152.98, 3151.55]
+
+- _Korok::L38
+
+- _Korok::L24
+
+- _Korok::L08
+
+- _Korok::L25
+
+- _Shrine::YaNaga

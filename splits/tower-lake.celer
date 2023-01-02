@@ -1,0 +1,40 @@
+Lake Tower:
+- _Korok::L26
+
+- _Korok::L15
+
+- _Korok::L14
+
+- .gale():
+    gale: 1
+
+- _Korok::D54
+
+- _Korok::L09
+
+- _Korok::L27
+
+- _Korok::L30
+
+- _Korok::L31
+
+- _Korok::L32
+
+- _Korok::L33
+
+- _Korok::L39
+
+- _Korok::L40
+
+- _Korok::L44
+
+- _Korok::L42
+
+- _Korok::L43
+
+- _Korok::L51
+
+- .gale():
+    gale: 1
+
+- _Tower::Lake

@@ -1,0 +1,48 @@
+Central Tower:
+- _Boss::Talus::Luminous:
+    coord: [-971.13, 355.71, 3236.14]
+
+- _Korok::L41
+
+- _Korok::L37
+
+- _Korok::L23
+
+- _Korok::P17
+
+- _Korok::P16
+
+- " ":
+    time-override: 360
+- .gale():
+    gale: 1
+
+- _Korok::P15
+
+- _Korok::P14
+
+- _Korok::P07
+
+- _Korok::P08
+
+- _Korok::P03
+
+- _Korok::C80
+
+- _Korok::C79
+
+- _Korok::C74
+
+- _Korok::C73
+
+- _Korok::C67
+
+- _Korok::C68
+
+- _Korok::C66
+
+- _Korok::C52
+
+- _Korok::C53
+
+- _Tower::Central

@@ -1,0 +1,16 @@
+Thunder Helm:
+- .gale():
+    gale: 1
+    
+- _Korok::W47
+
+- _Korok::W36
+
+- _Korok::W28
+
+- _Warp::Shrine::KuhTakkar:
+    comment: WARP
+
+- _Chest::Special<Thunder Helm>:
+    coord: [-3451.00, 440.69, 1341.50]
+    split-type: UserDefined

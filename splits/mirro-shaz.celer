@@ -1,0 +1,74 @@
+Mirro Shaz:
+- _Korok::D01
+
+- _Korok::Z47
+
+- _Korok::Z48
+
+- _Korok::Z49
+
+- _Korok::Z50
+
+- _Korok::Z60
+
+- _Korok::N01
+
+- _Boss::Hinox::Red:
+    coord: [1969.04, 115.44, 97.40]
+
+- _Korok::Z41
+
+- _Boss::Hinox::Black:
+    coord: [2485.10, 152.09, -133.56]
+
+- _Korok::Z22
+
+- _Korok::Z23
+
+- _Korok::Z31
+
+- _Korok::Z40
+
+- _Korok::Z30
+
+- _Korok::Z29
+
+- _Korok::C46
+
+- _Korok::C51
+
+- _Memory::HyruleField
+
+- _Korok::C56
+
+- _Boss::Hinox::Blue:
+    coord: [421.00, 161.27, 329.50]
+    
+- _Korok::C50
+
+- _Korok::C44
+
+- _Korok::C45
+
+- _Korok::C34
+
+- _Boss::Hinox::Blue:
+    coord: [626.49, 123.09, -305.54]
+
+- _Korok::Z21
+
+- _Korok::Z11
+
+- _Korok::C13
+
+- _Korok::K35
+
+- _Korok::Z02
+
+- _Korok::Z03
+
+- _Korok::K34
+
+- _Korok::K33
+
+- _Shrine::MirroShaz

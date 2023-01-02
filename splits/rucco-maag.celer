@@ -1,0 +1,31 @@
+Rucco Maag:
+- _Korok::N40
+
+- _Korok::N25
+
+- _Korok::Z61
+
+- _Korok::Z62
+
+- _Korok::Z59
+
+- _Korok::Z58
+
+- _Boss::Hinox::Blue:
+    coord: [4442.00, 160.79, 350.94]
+
+- _Korok::Z56
+
+- _Korok::Z57
+
+- _Korok::N12
+
+- _Korok::Z55
+
+- _Korok::Z54
+
+- _Korok::N14
+
+- _Korok::Z51
+
+- _Shrine::RuccoMaag

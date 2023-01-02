@@ -1,0 +1,15 @@
+Wasteland Tower:
+- _Korok::G34
+
+- _Korok::W15
+
+- _Warp::VahNaboris:
+    comment: WARP
+
+- _Korok::W33
+
+- _Korok::W31
+
+- _Korok::W32
+
+- _Tower::Wasteland

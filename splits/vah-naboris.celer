@@ -1,0 +1,11 @@
+Vah Naboris:
+- .gale():
+    gale: 2
+    
+- .!!(Urbosa's Fury):
+    icon: naboris-done
+    line-color: orange
+    split-type: UserDefined
+    movements:
+        - to: [-3772,2851]
+          warp: true

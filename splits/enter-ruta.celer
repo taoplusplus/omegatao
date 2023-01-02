@@ -1,0 +1,12 @@
+Enter Ruta:
+- .gale():
+    gale: 1
+    
+- _Korok::Z18
+
+- _Korok::Z26
+
+- Enter Ruta:
+    icon: ruta-enter
+    coord: [3662.40, 315.66, -175.42]
+    split-type: UserDefined

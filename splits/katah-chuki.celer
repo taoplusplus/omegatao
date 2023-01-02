@@ -1,0 +1,44 @@
+Katah Chuki:
+- .fury():
+    fury: 1
+
+- .gale():
+    gale: 1
+
+- _Korok::C09
+
+- _Korok::C11
+
+- _Korok::C12
+
+- _Korok::C19
+
+- _Korok::C23
+
+- _Korok::C18
+
+- _Korok::C10
+
+- _Korok::C06
+
+- _Korok::C05
+
+- _Boss::Hinox::Stal:
+    coord: [256.50, 142.49, -913.50]
+
+- _Korok::C04
+
+- _Korok::C17
+
+- _Korok::C29
+
+- _Korok::C28
+
+- _Korok::C32
+
+- _Korok::C27
+
+- _Korok::C31
+
+- _Shrine::KatahChuki:
+    comment: Minor Test of Strength

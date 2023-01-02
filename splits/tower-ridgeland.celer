@@ -1,0 +1,18 @@
+Ridgeland Tower:
+- _Korok::R03
+
+- _Korok::H71
+
+- .fury():
+    fury: 3
+
+- _Boss::Talus::Luminous:
+    coord: [-2177.46, 322.30, -1585.39]
+
+- _Korok::R02
+
+- _Korok::R06
+
+- _Korok::R09
+
+- _Tower::Ridgeland

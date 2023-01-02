@@ -1,0 +1,10 @@
+Akh Vaquot:
+- _Korok::T15
+
+- .gale():
+    gale: 1
+    
+- _Npc::Rito<Notts>:
+    coord: [-3596.62, 317.93, -1794.98]
+
+- _Shrine::AkhVaquot

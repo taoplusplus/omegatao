@@ -1,0 +1,24 @@
+Sasa Kai:
+- _Korok::G32
+
+- _Korok::W08
+
+- _Korok::W10
+
+- _Boss::Talus::Luminous:
+    coord: [-2277.50, 293.77, 1979.00]
+
+- _Korok::G35
+
+- .gale():
+    gale: 1
+
+- _Boss::Talus::Luminous:
+    coord: [-2898.47, 305.79, 2210.99]
+
+- _Memory::KaraKaraBazaar
+
+- _Korok::W17
+
+- _Shrine::SasaKai:
+    comment: Modest Test of Strength

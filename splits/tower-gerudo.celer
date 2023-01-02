@@ -1,0 +1,5 @@
+Gerudo Tower:
+- _Boss::Talus::Frost:
+    coord: [-3558.72, 558.36, 1560.07]
+
+- _Tower::Gerudo

@@ -1,0 +1,26 @@
+Gorae Torr:
+- _Korok::K04
+
+- _Korok::K01
+    
+- _Korok::K02
+
+- _Korok::K03
+
+- _Korok::E01
+
+- _Korok::E02
+
+- _Korok::E03
+
+- .gale():
+    gale: 1
+
+- _Korok::E04
+
+- _Korok::E05
+
+- .gale():
+    gale: 1
+
+- _Shrine::GoraeTorr

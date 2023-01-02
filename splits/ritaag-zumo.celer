@@ -1,0 +1,11 @@
+Ritaag Zumo:
+- _Korok::A44
+
+- _Korok::A35
+
+- _Korok::A36:
+    movements:
+        - to: [4691.71, 136.71, -1777.33]
+          away: true
+
+- _Shrine::RitaagZumo

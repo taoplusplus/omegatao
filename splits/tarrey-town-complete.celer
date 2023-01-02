@@ -1,0 +1,12 @@
+Tarrey Town Complete:
+- _Korok::A48
+
+- .loc(Great Fairy Fountain):
+    icon: location
+    coord: [4105.00, 263.97, -1370.00]
+
+- _Npc<Kilton>:
+    coord: [4152.87, 194.63, -1597.24]
+
+- _Npc<Hudson>:
+    coord: [3970.74, 233.60, -1623.47]

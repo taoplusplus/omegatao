@@ -1,0 +1,11 @@
+Namika Ozz:
+- _Korok::C02
+
+- .fury():
+    fury: 2
+    
+- _Boss::Talus::Luminous:
+    coord: [771.50, 152.53, -1014.00]
+
+- _Shrine::NamikaOzz:
+    comment: Modest Test of Strength

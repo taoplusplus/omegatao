@@ -1,0 +1,9 @@
+Enter Rudania:
+- Enter Rudania:
+    icon: rudania-enter
+    split-type: UserDefined
+    movements:
+        - to: [2235,-2370]
+        - to: [2502.61, 667.95, -2270.26]
+        - to: [2701.02, 726.21, -2363.06]
+        - to: [2794.50, 774.84, -2657.93]
