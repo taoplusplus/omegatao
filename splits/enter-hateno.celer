@@ -3,13 +3,3 @@ Enter Hateno:
     icon: shop
     coord: [3356.35, 225.66, 2175.10]
     split-type: UserDefined
-
-- .!!(Max Stamina):
-    icon: tots
-    split-type: UserDefined
-    hide-icon-on-map: true
-
-- .!!(Corruption):
-    icon: tots
-    split-type: UserDefined
-    hide-icon-on-map: true

@@ -1,9 +1,4 @@
 Camera:
-- .!!(House Upgraded):
-    icon: house-plus
-    split-type: UserDefined
-    coord: [3327.28, 235.03, 2297.52]
-
 - _Korok::N42
 
 - .!!(Slate Upgraded):
